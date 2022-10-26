@@ -1,0 +1,11 @@
+/navec_hudlit_v1_12B_500K_300d_100q.tar
+/TextTonalityClassifierCatBoost.model
+/TextTonalityClassifier_old.nn
+/telegramBotAPIToken.py
+/sentryToken.py
+/users.json
+/requirements.txt
+/reports.txt
+bad_words.txt
+/__pycache__
+TextTonalityClassifier.nn

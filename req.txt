@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+numpy
+fuzzywuzzy
+torch
+slovnet
+nltk
+navec
